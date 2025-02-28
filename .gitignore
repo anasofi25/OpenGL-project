@@ -1,0 +1,17 @@
+# Ignore build folders
+Debug/
+Release/
+x64/
+x86/
+.vs/
+
+# Ignore Visual Studio temporary files
+*.sdf
+*.suo
+*.VC.db
+
+# Ignore compiled binaries
+*.obj
+*.exe
+*.dll
+*.lib
